@@ -35,7 +35,7 @@ The Ornstein-Uhlenbeck noise has a sigma of **0.1**.
 
 The model was trained for 200 episodes but it was able to reach its target goal in just 165 episodes. The score vs episode graph is shown bellow and it seems to be fairly stable.
 
-![](reward_plot.png)
+![](score.png)
 
 ## Future Work
 It would be interesting to see how batch normalization affects the model. Also, sampling the buffer might slightly improve the performance as well. It would also be interesting to see how extensively training the algorithm for large number of episodes would affect its performance.
