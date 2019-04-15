@@ -1,4 +1,4 @@
-#Project 3: Colloboration and Competition
+# Project 3: Colloboration and Competition
 
 ## Introduction
 
