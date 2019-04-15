@@ -19,11 +19,10 @@ I found MADDPG environment quite interesting as I wanted to work with multi-agen
  
 My final network for both actor and critic consisted of:
 - Fully connected layer - input: 87 (state size) output: 256
-+ Batchnormalisation 
 - Fully connected layer - input: 256 output 256
 - Fully connected layer - input: 256 output: 2 (action size)
 
-The agents were easily able to solve the task after episodes only. 
+The agents were easily able to solve the task after 1514 episodes only. 
 
 
 ![](scores.png)
