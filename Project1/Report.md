@@ -11,10 +11,10 @@ In this case, I wanted to see how changing the number of neurons in the hidden l
 Surprisingly, the model with 64 neurons was able to achieve a score of 13 in just 481 episodes whereas it took the model with 128 neurons 673 episodes. The rest of the hyper-parameters were the same as the ones used in DQN class. The network uses a batch size of 64 examples and a learning rate of 0.0005. The agent updates the target Q-network every 4 steps using a discount factor of 0.99.
 
 ### Score vs Episodes for model with 64 neurons
-![]('Score_64'.png)
+![]('Score_64.png')
 
 ### Score vs Episodes for model with 128 neurons
-![]('Score_128'.png)
+![]('Score_128.png')
 
 
 ## Future Work
