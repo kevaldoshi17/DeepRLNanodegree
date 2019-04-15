@@ -14,7 +14,7 @@ Surprisingly, the model with 64 neurons was able to achieve a score of 13 in jus
 ![](Score_64.png)
 
 ### Score vs Episodes for model with 128 neurons
-![]('Score_128.png')
+![](Score_128.png)
 
 
 ## Future Work
