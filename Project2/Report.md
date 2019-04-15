@@ -33,7 +33,7 @@ The Ornstein-Uhlenbeck noise has a sigma of **0.1**.
 
 ## Training Plot
 
-The model was trained for 500 episodes but it was able to reach its target goal in just episodes. The score vs episode graph is shown bellow and it seems to be fairly stable.
+The model was trained for 200 episodes but it was able to reach its target goal in just episodes. The score vs episode graph is shown bellow and it seems to be fairly stable.
 
 ![](reward_plot.png)
 
